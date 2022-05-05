@@ -17,6 +17,8 @@ public class Ex03 {
 		Reader isr = new FileReader("C:\\javaStudy\\file\\PhoneDB_원본.txt");
 		BufferedReader br = new BufferedReader(isr);
 
+		
+		
 		while (true) {
 			Person p = new Person();
 
