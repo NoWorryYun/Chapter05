@@ -10,7 +10,7 @@ import java.io.Writer;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ex03 {
+public class PhonebookApp {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
